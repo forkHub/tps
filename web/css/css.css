@@ -1,0 +1,16 @@
+div.row.step-item.comp.dipilih {
+    background-color: gray;
+}
+
+div.row.step-item.comp {
+    /* border: 1px solid; */
+    padding: 4px;
+    margin-bottom: 4px;
+    background-color: lightgray;
+    user-select: none;
+    cursor: pointer;
+}
+
+div.hal-step div.list-cont {
+    padding: 4px;
+}
